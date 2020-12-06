@@ -1,0 +1,6 @@
+Employee [empName=HassanAden, empId= 121, empEmail= hassan@gmail.com, empSalary=40000.0]
+Employee [empName=JohnDeen, empId= 221, empEmail= john@gmail.com, empSalary=50000.0]
+Employee [empName=AlenQubar, empId= 321, empEmail= alen@gmail.com, empSalary=30000.0]
+Employee [empName=EmilyHudson, empId= 421, empEmail= emily@gmail.com, empSalary=80000.0]
+Employee [empName=JacobMorrison, empId= 521, empEmail= jacob@gmail.com, empSalary=90000.0]
+Employee [empName=ValiCobe, empId= 621, empEmail= vali@gmail.com, empSalary=600000.0]
